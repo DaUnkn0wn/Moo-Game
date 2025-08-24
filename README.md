@@ -1,6 +1,5 @@
 # Moo-Game
  A mini turn-based game where Lamumu cows “debate” by throwing ideas (speech bubbles). 
-Concept: A mini turn-based game where Lamumu cows “debate” by throwing ideas (speech bubbles).
 
 Gameplay: Players vote (click) which Lamumu’s idea wins.
 
